@@ -1,5 +1,6 @@
-# Welcome To My Grithub
+# Welcome to My Grithub
 
+![Welcome to my Page sign!](https://i.pinimg.com/originals/bf/33/a6/bf33a6c37cf0ccaa0af2f429dfb6bfc3.png)
 - 👋 Hi, I’m @SmithJ77
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
